@@ -1,0 +1,4 @@
+# Unix/mac python -m pip install -r requirements.txt
+# Windows py -m pip install -r requirements.txt
+cassiopeia
+ratelimit
